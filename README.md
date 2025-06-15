@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/tumblr_owi25v6uao1r4gsiio1_1280gif-1000300--952722496163721113/)]
+[![MasterHead](MockoFun.gif)]
 <h1 align="center">Hi 👋, I'm Athang Kali</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
