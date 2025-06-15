@@ -1,4 +1,4 @@
-[![MasterHead](MockoFun.gif)]
+![MasterHead](MockoFun.gif)
 <h1 align="center">Hi 👋, I'm Athang Kali</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
