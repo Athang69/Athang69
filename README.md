@@ -1,4 +1,4 @@
-[![MasterHead](https://community.adobe.com/t5/image/serverpage/image-id/263733i28B89A1182495001/image-size/original/is-moderation-mode/true?v=v2&px=-1)]
+[![MasterHead](https://www.pinterest.com/pin/tumblr_owi25v6uao1r4gsiio1_1280gif-1000300--952722496163721113/)]
 <h1 align="center">Hi 👋, I'm Athang Kali</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
