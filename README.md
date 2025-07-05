@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Athang Kali<br><br>🎓 Electronics and Telecommunication Engineering student | 💻 Full Stack Web Developer (MERN Stack)  <br>🚀 Passionate about building modern web apps and learning new technologies.  <br>⚡ Currently exploring React, Tailwind CSS, and backend integrations.<br><br>## 🔧 Tech Stack<br>- **Frontend**: React.js, Tailwind CSS, HTML5, CSS3, JavaScript  <br>- **Backend**: Node.js, Express.js, MongoDB  <br>- **Tools**: Git, GitHub, VS Code, Postman<br><br>📫 **Let's connect**:  <br>[LinkedIn](https://www.linkedin.com/in/athang-kali-56341426a/) | [X](https://x.com/AthangKali) <br><br>---<br><br>🌱 Always curious. Always building.<br>
+# 👋 Hi, I'm Athang Kali<br><br>🎓 Electronics and Telecommunication Engineering student | 💻 Full Stack Web Developer (MERN Stack)  <br>🚀 Passionate about building modern web apps and learning new technologies.  <br>⚡ Currently exploring Next-JS.<br><br>## 🔧 Tech Stack<br>- **Frontend**: React.js, Tailwind CSS, HTML5, CSS3, JavaScript  <br>- **Backend**: Node.js, Typescript, Express.js, MongoDB, PostgreSQL  <br>- **Tools**: Git, GitHub, VS Code, Postman<br><br>📫 **Let's connect**:  <br>[LinkedIn](https://www.linkedin.com/in/athang-kali-56341426a/) | [X](https://x.com/AthangKali) <br><br>---<br><br>🌱 Always curious. Always building.<br>
 
 
 ## 🌐 Socials:
