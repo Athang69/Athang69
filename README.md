@@ -1,4 +1,5 @@
 # 💫 About Me:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=HK+Grotesk+Wide+&size=15&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hii+I+am+Athang+Kali;An+Open+Source+Contributer;A+Competitive+Programmer;Full+Stack+Developer;Contributing+to+cloud+native+%26+Kubernetes" alt="Typing SVG" /></a>
 # 👋 Hi, I'm Athang Kali<br><br>🎓 Electronics and Telecommunication Engineering student | 💻 Full Stack Web Developer (MERN Stack)  <br>🚀 Passionate about building modern web apps and learning new technologies.  <br>⚡ Currently exploring Next-JS.<br><br>## 🔧 Tech Stack<br>- **Frontend**: React.js, Tailwind CSS, HTML5, CSS3, JavaScript  <br>- **Backend**: Node.js, Typescript, Express.js, MongoDB, PostgreSQL  <br>- **Tools**: Git, GitHub, VS Code, Postman<br><br>📫 **Let's connect**:  <br>[LinkedIn](https://www.linkedin.com/in/athang-kali-56341426a/) | [X](https://x.com/AthangKali) <br><br>---<br><br>🌱 Always curious. Always building.<br>
 
 
