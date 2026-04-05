@@ -1,19 +1,57 @@
-# 💫 About Me:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=HK+Grotesk+Wide+&size=15&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hii+I+am+Athang+Kali;An+Open+Source+Contributer;A+Competitive+Programmer;Full+Stack+Developer;Contributing+to+cloud+native+%26+Kubernetes" alt="Typing SVG" /></a>
-# 👋 Hi, I'm Athang Kali<br><br>🎓 Electronics and Telecommunication Engineering student | 💻 Full Stack Web Developer (MERN Stack)  <br>🚀 Passionate about building modern web apps and learning new technologies.  <br>⚡ Currently exploring Next-JS.<br><br>## 🔧 Tech Stack<br>- **Frontend**: React.js, Tailwind CSS, HTML5, CSS3, JavaScript  <br>- **Backend**: Node.js, Typescript, Express.js, MongoDB, PostgreSQL  <br>- **Tools**: Git, GitHub, VS Code, Postman<br><br>📫 **Let's connect**:  <br>[LinkedIn](https://www.linkedin.com/in/athang-kali-56341426a/) | [X](https://x.com/AthangKali) <br><br>---<br><br>🌱 Always curious. Always building.<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athang-kali-56341426a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AthangKali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athangkali21@gmail.com) 
+# Hii, I'm Athang Kali
+### Full Stack Developer & Open Source Contributer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Athang69&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Athang69&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athang69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Third Year Undergraduate Electronics and Telecommunication Engineering @SGGSIE&T.
+Eager to learn about Open Source Contribution, Docker, Kubernetes, Building Full stack Scalable Applications and New Technologies.
+Would like to connect with people in similar niche 😀
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Contact Me
+<p><a href="https://www.linkedin.com/in/athang-kali-56341426a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/AthangKali" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> </p>
 
+## Skills
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>&nbsp;
+</p>
+
+## Projects
+
+### Full Stack Expense Tracker
+
+A full-stack personal finance app to track income & expenses with interactive dashboards
+
+[View Project](https://expense-tracker-lemon-eta-39.vercel.app/)
+
+---
+
+### Second Brain
+
+A full-stack knowledge management platform to save, organize, and retrieve your content — tweets, videos, articles, and notes — all in one place.
+
+---
+
+### StationeryX
+
+A modular RESTful backend for stationery inventory management — covering products, stock, and order processing.
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Athang69&theme=dark" alt="GitHub Streak" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athang69&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
