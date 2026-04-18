@@ -11,20 +11,13 @@ Would like to connect with people in similar niche 😀
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/athang-kali-56341426a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/AthangKali" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> </p>
 
-## Skills
+## Merged Pull Requests
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>&nbsp;
-</p>
+| Repository | Merged PRs |
+|------------|------------|
+| **Headlamp** | [![View PRs](https://img.shields.io/badge/View%20PRs-Headlamp-blue?logo=github)](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3AAthang69+is%3Aclosed) |
+| **KubeArmor** | [![View PRs](https://img.shields.io/badge/View%20PRs-KubeArmor-blue?logo=github)](https://github.com/kubearmor/KubeArmor/pulls?q=is%3Apr+author%3AAthang69+is%3Aclosed) |
+| **dot-ai-headlamp** | [![View PRs](https://img.shields.io/badge/View%20PRs-dot--ai--headlamp-blue?logo=github)](https://github.com/vfarcic/dot-ai-headlamp/pulls?q=is%3Apr+is%3Aclosed) |
 
 ## Projects
 
