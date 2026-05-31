@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=HK+Grotesk+Wide+&size=15&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hii+I+am+Athang+Kali;An+Open+Source+Contributer;A+Competitive+Programmer;Full+Stack+Developer;Contributing+to+cloud+native+%26+Kubernetes" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=435&lines=Hii+I+am+Athang+Kali;An+Open+Source+Contributer;A+Competitive+Programmer;Full+Stack+Developer;Contributing+to+Cloud+Native+%26+Kubernetes" alt="Typing SVG" /></a>
 
 
 # Hii, I'm Athang Kali
