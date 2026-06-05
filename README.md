@@ -19,27 +19,6 @@ Would like to connect with people in similar niche 😀
 | **KubeArmor** | [![View PRs](https://img.shields.io/badge/View%20PRs-KubeArmor-blue?logo=github)](https://github.com/kubearmor/KubeArmor/pulls?q=is%3Apr+author%3AAthang69+is%3Aclosed) |
 | **dot-ai-headlamp** | [![View PRs](https://img.shields.io/badge/View%20PRs-dot--ai--headlamp-blue?logo=github)](https://github.com/vfarcic/dot-ai-headlamp/pulls?q=is%3Apr+is%3Aclosed) |
 
-## Projects
-
-### Full Stack Expense Tracker
-
-A full-stack personal finance app to track income & expenses with interactive dashboards
-
-[View Project](https://expense-tracker-lemon-eta-39.vercel.app/)
-
----
-
-### Second Brain
-
-A full-stack knowledge management platform to save, organize, and retrieve your content — tweets, videos, articles, and notes — all in one place.
-
----
-
-### StationeryX
-
-A modular RESTful backend for stationery inventory management — covering products, stock, and order processing.
-
----
 
 ## GitHub Stats
 
