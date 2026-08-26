@@ -18,12 +18,3 @@ Would like to connect with people in similar niche 😀
 | **Headlamp** | [![View PRs](https://img.shields.io/badge/View%20PRs-Headlamp-blue?logo=github)](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3AAthang69+is%3Aclosed) |
 | **KubeArmor** | [![View PRs](https://img.shields.io/badge/View%20PRs-KubeArmor-blue?logo=github)](https://github.com/kubearmor/KubeArmor/pulls?q=is%3Apr+author%3AAthang69+is%3Aclosed) |
 | **dot-ai-headlamp** | [![View PRs](https://img.shields.io/badge/View%20PRs-dot--ai--headlamp-blue?logo=github)](https://github.com/vfarcic/dot-ai-headlamp/pulls?q=is%3Apr+is%3Aclosed) |
-
-
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Athang69&theme=dark" alt="GitHub Streak" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athang69&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
