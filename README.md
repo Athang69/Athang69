@@ -15,7 +15,7 @@ Would like to connect with people in similar niche 😀
 
 | Repository | Merged PRs |
 |------------|------------|
-| **Headlamp** | [![View PRs](https://img.shields.io/badge/View%20PRs-Headlamp-blue?logo=github)](https://github.com/headlamp-k8s/plugins/pulls/Athang69) |
-| **Headlamp Plugins** | [![View PRs](https://img.shields.io/badge/View%20PRs-Headlamp-blue?logo=github)](https://github.com/kubearmor/KubeArmor/pulls?q=is%3Apr+author%3AAthang69+is%3Aclosed) |
+| **Headlamp** | [![View PRs](https://img.shields.io/badge/View%20PRs-Headlamp-blue?logo=github)](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3AAthang69+is%3Aclosed) |
+| **Headlamp Plugins** | [![View PRs](https://img.shields.io/badge/View%20PRs-Headlamp-blue?logo=github)](https://github.com/headlamp-k8s/plugins/pulls/Athang69) |
 | **KubeArmor** | [![View PRs](https://img.shields.io/badge/View%20PRs-KubeArmor-blue?logo=github)](https://github.com/kubearmor/KubeArmor/pulls?q=is%3Apr+author%3AAthang69+is%3Aclosed) |
 | **dot-ai-headlamp** | [![View PRs](https://img.shields.io/badge/View%20PRs-dot--ai--headlamp-blue?logo=github)](https://github.com/vfarcic/dot-ai-headlamp/pulls?q=is%3Apr+is%3Aclosed) |
