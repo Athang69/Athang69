@@ -28,7 +28,6 @@ REPOS = [
     "kubernetes-sigs/headlamp",
     "kubearmor/KubeArmor",
     "headlamp-k8s/plugins",
-    "vfarcic/dot-ai-headlamp",
 ]
 
 W, H = 900, 432
@@ -140,7 +139,7 @@ def build(theme_name, st):
     a(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
       f'viewBox="0 0 {W} {H}" role="img" '
       f'aria-label="Athang Kali - Systems Engineer, Cloud Native and Backend, Open Source Contributor">')
-    a("<title>Athang Kali — Systems Engineer · Cloud Native · Open Source</title>")
+    a("<title>Athang Kali · Systems Engineer · Cloud Native · Open Source</title>")
 
     a("<style>")
     a(font_face("JBM", "jetbrains-mono.woff2"))
@@ -191,10 +190,10 @@ def build(theme_name, st):
            fill=c["dim"], font_size="14"))
     a(f'<rect x="{PAD_X}" y="272" width="716" height="1" fill="{c["border"]}"/>')
 
-    stats = [(str(st.get("merged", "—")), "PRS MERGED"),
-             (str(st.get("review", "—")), "IN REVIEW"),
-             (str(st.get("solved", "—")), "PROBLEMS SOLVED"),
-             (str(st.get("rating", "—")), "LEETCODE RATING")]
+    stats = [(str(st.get("merged", "0")), "PRS MERGED"),
+             (str(st.get("review", "0")), "IN REVIEW"),
+             (str(st.get("solved", "0")), "PROBLEMS SOLVED"),
+             (str(st.get("rating", "0")), "LEETCODE RATING")]
     for i, (num, label) in enumerate(stats):
         x = PAD_X + i * 184
         a(text(x, 318, num, "d", fill=c["bright"], font_size="30", letter_spacing="-0.5"))
