@@ -47,7 +47,7 @@
 <text x="280" y="340" class="m" fill="#8c8ca0" font-size="9.5" letter-spacing="1.7">IN REVIEW</text>
 <text x="464" y="318" class="d" fill="#f2f2ff" font-size="30" letter-spacing="-0.5">605</text>
 <text x="464" y="340" class="m" fill="#8c8ca0" font-size="9.5" letter-spacing="1.7">PROBLEMS SOLVED</text>
-<text x="648" y="318" class="d" fill="#f2f2ff" font-size="30" letter-spacing="-0.5">1678</text>
+<text x="648" y="318" class="d" fill="#f2f2ff" font-size="30" letter-spacing="-0.5">1701</text>
 <text x="648" y="340" class="m" fill="#8c8ca0" font-size="9.5" letter-spacing="1.7">LEETCODE RATING</text>
 <rect x="838" y="86" width="35" height="2" rx="1" fill="#4ec9b0" opacity="0.30"/>
 <rect x="838" y="91" width="46" height="2" rx="1" fill="#8669fc" opacity="0.30"/>
