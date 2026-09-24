@@ -43,9 +43,9 @@
 <rect x="96" y="272" width="716" height="1" fill="#e3e3ec"/>
 <text x="96" y="318" class="d" fill="#101017" font-size="30" letter-spacing="-0.5">31</text>
 <text x="96" y="340" class="m" fill="#6b6b87" font-size="9.5" letter-spacing="1.7">PRS MERGED</text>
-<text x="280" y="318" class="d" fill="#101017" font-size="30" letter-spacing="-0.5">17</text>
+<text x="280" y="318" class="d" fill="#101017" font-size="30" letter-spacing="-0.5">18</text>
 <text x="280" y="340" class="m" fill="#6b6b87" font-size="9.5" letter-spacing="1.7">IN REVIEW</text>
-<text x="464" y="318" class="d" fill="#101017" font-size="30" letter-spacing="-0.5">605</text>
+<text x="464" y="318" class="d" fill="#101017" font-size="30" letter-spacing="-0.5">606</text>
 <text x="464" y="340" class="m" fill="#6b6b87" font-size="9.5" letter-spacing="1.7">PROBLEMS SOLVED</text>
 <text x="648" y="318" class="d" fill="#101017" font-size="30" letter-spacing="-0.5">1701</text>
 <text x="648" y="340" class="m" fill="#6b6b87" font-size="9.5" letter-spacing="1.7">LEETCODE RATING</text>
